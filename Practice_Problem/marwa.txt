@@ -1,0 +1,1 @@
+Reproducibility allows researchers to verify findings by checking if conclusions are reliable, repeatable, and free from chance or bias.
