@@ -1,0 +1,3 @@
+Reproducibility is important as it allows researchers to create
+foundations for further collaboration between peers in their field, and it
+ensures the reliability of the results produced.
